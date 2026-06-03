@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.p1 {
+    background-color: rgb(241, 125, 125);
+    font: Verdana, dejavu sans, sans-serif;
+    font-size: 24px;
+}
+.p2 {
+    color: rgb(0, 17, 255);
+    font-size: 36px;
+}
+.p3 {
+    font-size: 24px;
+}
+.p4 {
+    color: rgb(255, 0, 0);
+}
